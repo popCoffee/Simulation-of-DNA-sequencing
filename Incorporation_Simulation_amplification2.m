@@ -1,3 +1,6 @@
+% © Andrew Kubal
+% Matlab, 2017
+
 %time
 time_tot=10;
 dt=0.00005; %100us
