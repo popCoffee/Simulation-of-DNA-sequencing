@@ -1,3 +1,6 @@
+% © Andrew Kubal
+% Matlab, 2017
+
 
 function Delta_Reagents=ChangesByIncorporation(dt, Reagents)
 
@@ -72,3 +75,5 @@ kr7=1.45*10^4;
     Delta_Reagents=[Delta_DNAn, Delta_Enz, Delta_dNTP, Delta_Mg, Delta_EnzDNAn, Delta_EnzDNAndNTP, Delta_EnzaDNAndNTP, Delta_EnzaDNAndNTPMg, Delta_EnzaDNAn1_PPiMg, Delta_EnzaDNAn1_PPi, Delta_EnzDNAn1_PPi, Delta_PPi, Delta_EnzDNAn1, Delta_DNAn1];
     
 end
+
+% Research and Development in ISFET gate-voltage drift simulations
